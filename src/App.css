@@ -5,6 +5,10 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  margin: 10px;
+  box-shadow: 20px 10px rgb(187, 187, 187);
+  font-weight: bold;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
